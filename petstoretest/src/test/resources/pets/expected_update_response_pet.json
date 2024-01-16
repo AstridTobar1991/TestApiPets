@@ -1,0 +1,18 @@
+{
+  "id": "#number",
+  "category": {
+    "id": 0,
+    "name": "Retriever"
+  },
+  "name": "choko",
+  "photoUrls": [
+    "https://www.enciclopet.com.br/wp-content/uploads/2016/09/golden-retriever.jpg"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "sold"
+}
