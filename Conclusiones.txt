@@ -1,0 +1,23 @@
+
+Puedo concluir que la realización de pruebas desempeña un papel fundamental en el desarrollo de software, siendo un aspecto crucial que no puede pasarse por alto. Es imperativo no solo llevar a cabo las pruebas, sino también abordar su análisis y diseño con meticulosidad, asegurándose de cumplir con los requisitos establecidos en el proyecto.
+
+Mediante las pruebas automatizadas, se evaluó la adecuada operatividad de las APIS solicitadas, revelando que cada uno de ellos puede funcionar de manera independiente. Por otro lado, al emplear la herramienta KARATE, se verifica con éxito la integración de las diferentes APIS, asegurando un funcionamiento conjunto sin inconvenientes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
